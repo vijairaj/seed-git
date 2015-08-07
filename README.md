@@ -16,3 +16,6 @@ Follow the standard build procedure:
 # Debugging
 One of the ways to analyze the source code is to step through the execution of the code line by line. [Qt Creator](https://wiki.qt.io/Category:Tools::QtCreator) make this easy because it can read CMake projects directly, so building and debugging is just one step away. Qt Creator can be installed from the distribution package or [downloaded directly](http://download.qt.io/official_releases/qtcreator/).
 
+# Further reading
+- [See the wiki](https://github.com/vijairaj/seed-git/wiki)
+- [See the original README](README)
